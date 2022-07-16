@@ -17,3 +17,10 @@ const me = {
   wantToLearn: ["Angular", "Django"],
 };
 ```
+
+<div>
+  <a href="#">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mad-daniel&show_icons=true&include_all_commits=false&count_private=false&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad-daniel&layout=compact&langs_count=6&hide=webassembly&theme=github_dark"/>
+  </a>
+</div>
