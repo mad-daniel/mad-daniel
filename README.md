@@ -9,3 +9,21 @@
   <a href="https://www.linkedin.com/in/danielkosbab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/leinadbabsok/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
+<br />
+
+```js
+const me = {
+  name: "Daniel Kosbab",
+  age: 27,
+  hobbies: ["Field hockey", "Super Go-Kart", "Maths/Physics"],
+  frontend: ["HTML", "CSS", "SASS/SCSS", "styled-components", "Bootstrap", "Tailwind CSS",
+            "JavaScript/TypeScript", "React.js", "Next.js", "Svelte.js", "Storybook"],
+  dataScience: ["Python", "R", "Jupyter Notebook" "Anaconda", "Keras", "Scikit-learn"
+                "Tensorflow", "ML Ops", "OpenCV", "Scikit-image", "NumPy", "SciPy", "Pandas"
+                "Matplotlib", "Seaborn", "Geoplotlib", "Plotly", "super-gradients", "SQL",
+                "Statsmodels", "Streamlit", "Tableau", "Looker Studio"],
+  testing: ["Jest", "Cypress", "pytest"],
+  other: ["Yarn", "NPM", "Vercel", "Heroku", "Firebase"]
+}
+```
