@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/leinadbabsok/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<br />
+<p><b>About me & skills</b></p>
 
 ```js
 const me = {
@@ -24,6 +24,6 @@ const me = {
                 "Matplotlib", "Seaborn", "Geoplotlib", "Plotly", "super-gradients", "SQL",
                 "Statsmodels", "Streamlit", "Tableau", "Looker Studio"],
   testing: ["Jest", "Cypress", "pytest"],
-  other: ["Yarn", "NPM", "Vercel", "Heroku", "Firebase"]
+  other: ["Git", "Yarn", "NPM", "Vercel", "Heroku", "Firebase"]
 }
 ```
