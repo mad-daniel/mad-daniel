@@ -27,3 +27,27 @@ const me = {
   other: ["Git", "Yarn", "NPM", "Vercel", "Heroku", "Firebase"]
 }
 ```
+---
+
+### Projects
+
+<p><b>Frontend development</b></p>
+<li>Kanban Web App (Vite, React, styled-components)</li>
+<li>Connect Four Game (React, SCSS modules)</li>
+<li>Planets Fact App (Next.js, API, styled-components)</li>
+<li>Rest Countries App (React, API, SCSS)</li>
+<li>IP Address Tracker (Svelte, styled-components)</li>
+<li>Tiny CRM Sytstem (Svelte, SCSS modules)</li>
+
+<br />
+
+<p><b>Data Science</b></p>
+<li>Facial expression recognition with FER dataset (Scikit-learn)</li>
+<li>Facial expression recognition with AffectNet dataset (Tensorflow)</li>
+<li>Forecasting stock prediction (Scikit-learn, yfinance)</li>
+<li>Breast cancer classification (Tensorflow)</li>
+<li>Mental heatlh in tech analysis (Scikit-learn, Streamlit)</li>
+
+<br />
+
+<p><b>Note:</b> I have set my projects to private, as I mainly work in private repos.</p>
