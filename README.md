@@ -19,7 +19,7 @@ const me = {
   hobbies: ["Field hockey", "Super Go-Kart", "Maths/Physics"],
   frontend: ["HTML", "CSS", "SASS/SCSS", "styled-components", "Bootstrap", "Tailwind CSS",
             "JavaScript/TypeScript", "React.js", "Next.js", "Svelte.js", "Storybook"],
-  dataScience: ["Python", "R", "Jupyter Notebook" "Anaconda", "Keras", "Scikit-learn"
+  dataScience: ["Python", "R", "Julia", "Jupyter Notebook" "Anaconda", "Keras", "Scikit-learn"
                 "Tensorflow", "ML Ops", "OpenCV", "Scikit-image", "NumPy", "SciPy", "Pandas"
                 "Matplotlib", "Seaborn", "Geoplotlib", "Plotly", "super-gradients", "SQL",
                 "Statsmodels", "Streamlit", "Tableau", "Looker Studio"],
